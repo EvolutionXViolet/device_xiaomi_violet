@@ -34,6 +34,7 @@ ro.com.google.ime.kb_pad_port_b=1
 ro.sf.lcd_density=420
 
 # Graphics
+debug.cpurend.vsync=false
 debug.sf.latch_unsignaled=1
 persist.demo.hdmirotationlock=false
 persist.hwc.enable_vds=1

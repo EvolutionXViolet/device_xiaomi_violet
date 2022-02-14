@@ -550,4 +550,7 @@
 
     <!-- Pocket Mode -->
     <bool name="config_pocketModeSupported">false</bool>    
+
+    <!-- ProximityCheckOnWake -->
+    <bool name="config_proximityCheckOnWake">false</bool>
 </resources>
